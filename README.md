@@ -1,4 +1,4 @@
-# API Kafka Consumer
+# API Kafka Producer
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## Características
 
-> API desenvolvida como projeto de estudos, a fim de simular a transferencia de dados via Kafka, através do tópicop criado, utilizando broker simulado, utilizando Docker.
+> API desenvolvida como projeto de estudos, a fim de simular a transferencia de dados (produtor) via Kafka, através do tópico criado, utilizando broker simulado, utilizando Docker.
 
 ## Desenvolvimento
 > Utilizando as melhores metodologias de mercado no desenvolvimento de software.
